@@ -1,6 +1,6 @@
-# D-Link-Telnet-Switch-Scanner
-Got drunk.
-Found these and decided to mess around with the Python Telnetlib plugin. 
-Basically looks for identifiers and blah blah blah. 
+Getting comfortable with telnetlib & looking more into checking the prompts of devices checked.
+This has no purpose other than checking a telnet prompt & my learning of how to properly parse a prompt.
 
-Use however necessary for research or whatever ya dig?
+No other use, and putting this here considering exploits with these devices have been found months after putting this here, the capability for mass exploitation is still quite low as these ethernet switches do not have the correct prerequisites for such exploitation.
+
+Feel free to check this out if you're learning python or new plugins/features of the python library.
